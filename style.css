@@ -1,0 +1,19 @@
+body {
+  background-color: #13113a;
+  padding: 15px;
+  margin: 0;
+}
+h1 {
+  color: white;
+}
+
+ol {
+  color: white;
+  font-family: "Work Sans", sans-serif;
+  font-size: 20px;
+  text-align: center;
+  line-height: 35px;
+  columns: 250px 3;
+  column-gap: 40px;
+  list-style-position: inside;
+}
